@@ -141,3 +141,7 @@ clemooling@staringplanet.top
 ## 协议
 
 本文所有内容使用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans) 协议。
+
+## 翻译
+
+本文作者使用中文（简体），不提供任何翻译，但你可以自行使用 AI 或者其他工具进行翻译。本仓库接受与此相关的任意语言的翻译 PR，其他语言需要命名为 AGENTS_<lang>.md
